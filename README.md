@@ -20,10 +20,11 @@
 
 ## 專業技能
 ### CSS / Frontend Design 
-* 熟悉 CSS 及運用相關框架(Bootstrap)
+* 了解 HTML5 和 CSS 規劃網頁排版
+* 能運用相關框架(Bootstrap)
 * 熟悉 RWD 網站開發及 SCSS 規劃 Web Layout 架構
 * 熟悉圖像處理 SVG , Sprite ...等技術
-* 會使用 JQuery 做動畫效果
+* 對原生 Javascript 有基礎了解，目前較常使用 Jquery 做動畫效果
 
 ### UI / Website Design 
 * 熟悉網頁製作技巧，掌控整體設計風格，Layout 視覺強
