@@ -1,4 +1,4 @@
-# 侯妙樺
+# 侯妙樺 Meg Hou
 
 ## Profile
 * Education: 師大設研所 (2009 - 2011)
