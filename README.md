@@ -8,14 +8,14 @@
 *  <a href="https://www.linkedin.com/in/miao-hua-hou-04280b119/" target="_blank">Linkedin</a>
 *  <a href="https://github.com/miaohou" target="_blank">Github</a>
 
-## 專業項目
+## 專業項目 Personal Skills
 * 擅長網頁設計及美術效果執行
 * 依照專案需求與策略，將創意從概念通過視覺表現發展成為具體設計
 * 喜歡嘗試新技術，不希望侷限在自己目前所會的技術裡，期望自己每天都在進步
 * 主動積極，具跨團隊溝通合作能力
 
 
-## 專業技能
+## 專業技能 Professional Skills
 ### CSS / Frontend Design 
 * 了解 HTML5 和 CSS 規劃網頁排版
 * 能運用相關框架(Bootstrap)
