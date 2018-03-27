@@ -3,7 +3,6 @@
 ## Profile
 * Education: 師大設研所 (2009 - 2011)
 * Email: fu2513@hotmail.com
-* Mobile: 0972333108
 *  <a href="https://miaohou.github.io/miao/" target="_blank">作品集</a>
 *  <a href="https://www.linkedin.com/in/miao-hua-hou-04280b119/" target="_blank">Linkedin</a>
 *  <a href="https://github.com/miaohou" target="_blank">Github</a>
